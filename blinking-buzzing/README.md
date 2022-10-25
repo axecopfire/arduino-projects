@@ -8,7 +8,7 @@ This module combines the first 8 lessons of the [ELEGOO MEGA 2560 R3](https://ww
 
 This module combines the first 8 lessons into distinct functions, which can be found at the bottom of the file.
 
-![](https://randommedia.blob.core.windows.net/newcontainer/blinking-buzzing-tour.mp4)
+[Link to video giving a tour](https://randommedia.blob.core.windows.net/newcontainer/blinking-buzzing-tour.mp4)
 
 ```
   onboardLight();
