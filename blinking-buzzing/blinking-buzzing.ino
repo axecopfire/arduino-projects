@@ -175,9 +175,9 @@ void setup()
 // the loop function runs over and over again forever
 void loop()
 {
-  // onboardLight();
-  // lightChanging();
-  // activeBuzzer();
-  // passiveBuzzer();
+  onboardLight();
+  lightChanging();
+  activeBuzzer();
+  passiveBuzzer();
   redLedSwitch();
 }
