@@ -39,4 +39,4 @@ The Arduino can really only do one thing at a time. The way to do event listener
 
 ## Future dev
 
-I was not able to successfully get VS Code to connect to Arduino and so `git` is screwed up. I followed [this guide](https://blog.devgenius.io/visual-studio-code-arduino-configuration-and-import-solution-a5f188a0cfd0). The problem is that the `.ino` files won't run from VS Code. So I do the Arduino connection and dev in the Arduino IDE.
+I was not able to successfully get VS Code to connect to Arduino and so `git` is screwed up. The problem is that I wasn't able to setup the `.ino` file to reference `pitches.zip`. I followed [this guide](https://blog.devgenius.io/visual-studio-code-arduino-configuration-and-import-solution-a5f188a0cfd0). The problem is that the `.ino` files won't run from VS Code. So I do the Arduino connection and dev in the Arduino IDE.
